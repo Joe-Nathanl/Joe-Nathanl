@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joe! <br/><a href="https://www.linkedin.com/in/joenathan-lofties-a286651ba/">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Joe! <br/><a href="https://www.linkedin.com/in/joenathan-lofties-a286651ba/">Programmer</a>, <a href="https://www.linkedin.com/in/joenathan-lofties-a286651ba/">Cybersecurity Professional</a>, <a href= "https://www.youtube.com/@fitjoelofties2595/videos">YouTuber</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
