@@ -28,8 +28,10 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: [https://www.linkedin.com/in/joenathan-lofties](https://www.linkedin.com/in/joenathan-lofties-a286651ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXCRHoIiITgWy82FxY1Xomg%3D%3D)
-<!--
+[linkedin]: www.linkedin.com/in/joenathan-lofties-a286651ba
+
+
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
