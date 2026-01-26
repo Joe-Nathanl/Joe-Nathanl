@@ -13,8 +13,9 @@ https://github.com/Joe-Nathanl/azure-lab_1-
 
 <h2> 🤳 Connect with me:</h2>
 
-joenathan.lofties@gmail.com
-youtube: https://www.youtube.com/@fitjoelofties2595
+joenathan.lofties@gmail.com  
+
+YouTube: https://www.youtube.com/@fitjoelofties2595
 
 linkedin: www.linkedin.com/in/joenathan-lofties-a286651ba
 
