@@ -20,8 +20,9 @@ Built and configured multiple network environments with a focus on real-world sc
   <li>Set up DHCP services and validated connectivity</li>
   <li>Performed network troubleshooting (IP issues, connectivity failures, routing problems)</li>
 </ul>
-
 🔗 <a href="https://github.com/Joe-Nathanl/Creating-configuring-and-Troubleshooting-a-Network">View Networking Lab Portfolio</a>
+
+🔗 <a href="https://github.com/Joe-Nathanl/Troubleshooting-a-Network-/blob/main/README.md">View Troubleshooting Lab Portfolio</a>
 
 ---
 
