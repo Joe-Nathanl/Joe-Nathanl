@@ -46,7 +46,7 @@ Built a cloud-based lab environment using Azure Virtual Machines and implemented
 <h2>🧠 Technical Skills</h2>
 
 <ul>
-  <li><strong>Networking:</strong> TCP/IP, DNS, DHCP, Subnetting, VLANs, Routing</li>
+  <li><strong>Networking:</strong> Active Directory, TCP/IP, DNS, DHCP, Subnetting, VLANs, Routing</li>
   <li><strong>Systems:</strong> Active Directory, Windows, Azure Virtual Machines</li>
   <li><strong>Tools:</strong> Cisco Packet Tracer, Ticketing Systems, Microsoft Office</li>
 </ul>
