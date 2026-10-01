@@ -59,7 +59,7 @@ Built a cloud-based lab environment using Azure Virtual Machines and implemented
 I also create content related to fitness and personal development.
 </p>
 
-🔗 <a href="https://www.youtube.com/@fitjoelofties2595">YouTube Channel</a>
+🔗 <a href="www.youtube.com/@joen-j4d">YouTube Channel</a>
 
 ---
 
