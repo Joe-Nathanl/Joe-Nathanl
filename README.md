@@ -55,11 +55,9 @@ Built a cloud-based lab environment using Azure Virtual Machines and implemented
 
 <h2>📺 YouTube</h2>
 
-<p>
-I also create Cyber Security Content
-</p>
+<p>I also create Cyber Security Content</p>
 
-🔗 <a href="www.youtube.com/@joen-j4d](https://www.youtube.com/@joen-j4d)" >YouTube Channel</a>
+<a href="https://www.youtube.com/@joen-j4d">YouTube Channel</a>
 
 ---
 
